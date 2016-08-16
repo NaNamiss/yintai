@@ -1,0 +1,16 @@
+
+
+{
+	"head":"images/floor1img.jpg",
+	"product_left":{
+		"product_top":["T恤","POLO衫","裙装","太阳镜","腰带", "女鞋","女包","男包","钱包","男鞋","衬衫","双肩包"],
+		"product_bottom":{"imgs":"images/gg.jpg"}
+	},
+	"product_middle":["images/productimg5.jpg","images/productimg6.jpg"],
+	"product_right":["images/productimg7.jpg","images/productimg8.jpg","images/productimg9.jpg","images/productimg10.jpg"]
+}
+
+
+
+
+

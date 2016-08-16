@@ -1,0 +1,57 @@
+
+/*购物车的中间部分*/
+body{ background: #eee; }
+
+.shopping_center{width: 940px; padding:20px; background: #fff; margin-top: 20px; margin-bottom: 20px;}
+.goods{padding:20px;}
+.goods_head{ height: 30px; background:#666666;}
+.goods_qx{display:inline-block; width: 110px; height: 30px; padding-left: 20px; color: #fff; line-height: 30px;font-weight: 700;}
+.cbqx{margin-top:10px;}
+.goods_gs{display:inline-block; width: 320px; height: 30px; line-height: 30px; color: #fff;font-weight: 700;}
+.goods_dj{display:inline-block; width: 120px; height: 30px; line-height: 30px; color: #fff;font-weight: 700;}
+.goods_sl{display:inline-block; width: 90px; height: 30px; line-height: 30px; color: #fff;font-weight: 700;}
+.goods_jf{display:inline-block; width: 100px; height: 30px; line-height: 30px; color: #fff;font-weight: 700;}
+.goods_cz{display:inline-block; width: 100px; height: 30px; line-height: 30px; color: #fff;font-weight: 700;}
+.goods_title{width: 900px; height: 30px; background: #eee; line-height: 30px;}
+.goods_title span{ padding-left: 20px; color:#666;font-weight: 700; }
+.goods_contains{padding:20px; background: #f9f9f9; clear: both; overflow: hidden;}
+.goods_choice{width: 30px; height: 60px; line-height: 60px; text-align: center; float: left; padding-top:20px; padding-left:0px;}
+.goods_details_img img{width: 45px; height: 60px;float: left;}
+.goods_details_jieshao{ padding-left: 20px; float: left; width: 330px;}
+.goods_details_jieshao span{display:block; padding:3px; color: #999;}
+.goods_price{ height: 80px; line-height: 80px; color:#e5004f; font-weight: 700; font-size: 16px; float: left;}
+.goods_price img{ padding-left:5px; }
+.goods_number{margin-top:25px;margin-left:30px; border: 1px solid #ccc; float: left;}
+.goods_jian,.goods_add{display:block;width: 20px; height: 20px;text-align: center; line-height: 20px; background: #eee; float: left;}
+.goods_num{display:block;width: 30px; height: 20px;text-align: center; line-height: 20px; border-left: 1px solid #ccc; border-right: 1px solid #ccc;float:left;}
+.goods_jifen{width: 100px; height: 80px; line-height: 80px; float: left; text-align:center;}
+.goods_caozuo{ width: 100px; height: 20px; line-height: 20px; text-align: right;margin-top:10px; float: left;}
+.goods_caozuo a{display:block;}
+.goods_caozuo a:hover{color:#e5004f; text-decoration: underline;}
+
+.totalPrices{width:858px; height: 68px; background: #eee; margin-left: 20px; border:1px solid #ccc; padding:20px; clear: both; overflow: hidden;}
+.selectAll{width: 800px;}
+.cbselectAll{margin-top:4px;}
+.delete{ padding-left: 20px; }
+.goshopping{ padding-left: 10px; }
+.selectAll a:hover{color:#e5004f;}
+.settleAccounts{ float:right;width: 320px; height: 50px; line-height: 50px;}
+.jine{ font-size: 16px; font-weight: 600;float: left;}
+.money{ display: block; width: 60px; height: 25px; text-align: center; line-height: 25px; margin-top: 10px; border:1px solid #ccc; float: left; }
+.jiesuan{width: 147px; height: 43px; background: url(../images/shopping-submit1.jpg) no-repeat;margin-left:10px; float:left; }
+.jiesuan:hover{background: url(../images/shopping-submit2.jpg) no-repeat}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

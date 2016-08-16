@@ -1,0 +1,20 @@
+
+{
+	"list":[
+		{
+			"imgs":"images/17249(2).jpg",
+			"name":"FERRAGAMO菲拉格慕VARA FAMILY系列深红色牛皮材质蝴蝶结装饰女士卡包,22C1350586996,RED,WOMAN WALLET,UNI",
+			"price":"￥2400.00",
+			"color":["images/block.jpg","images/red.jpg"],
+			"size":"10.5*2*7 cm",
+			"number":"1"
+		},{
+			"imgs":"images/huabao.jpg",
+			"name":"QIGIRL柒格格 时尚印花锁扣迷你单肩斜挎包QGP2884",
+			"price":"￥129.00",
+			"color":["images/bluehua.jpg","images/redhua.jpg"],
+			"size":"宽18cm*高14cm*厚8.5cm*链条长54cm",
+			"number":"1"
+		}
+	]
+}
